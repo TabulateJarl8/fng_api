@@ -55,7 +55,7 @@ def getIdentity(nameset=["us"], country=["us"], gender="50", minage="19", maxage
 
 	name = soup.find("h3").text
 	fullAddress = soup.find("div", class_="adr").contents
-	address = (fullAddress[0] + " " + fullAddress[2]).strip()
+	address = (fullAddress[0] + ", " + fullAddress[2]).strip()
 	street = fullAddress[0].strip()
 	city = fullAddress[2].split(", ")[0]
 	state = fullAddress[2].split(" ")[1]
