@@ -116,7 +116,7 @@ Here is a list of all of the nameset abbreviations:
 ----
 
 ## Gender
-The gender argument is passed as an integer represented by a string. The integer represents the chance out of 100 that the identity will be a male. So if you wanted the identity to be only a girl, you would set gender equal to 0. If you wanted a 50/50 shot, you would set it to 50. Heres an exanple of an identity that has a 25% chance to be a male and a 75% chance to be a female:
+The gender argument is passed as an integer represented by a string. The integer represents the chance out of 100 that the identity will be a male. So if you wanted the identity to be only a girl, you would set gender equal to 0. If you wanted a 50/50 chance, you would set it to 50. Heres an example of an identity that has a 25% chance to be a male and a 75% chance to be a female:
 
 ```python
 identity = getIdentity(gender="25")
