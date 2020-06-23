@@ -5,7 +5,7 @@ with open("README.md", "r") as fh:
 
 setuptools.setup(
     name="fng_api",
-    version="0.0.3",
+    version="0.0.4",
     author="Tabulate",
     author_email="tabulatejarl8@gmail.com",
     description="API for fakenamegenerator.com",
