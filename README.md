@@ -1,7 +1,7 @@
 [![PyPI version](https://badge.fury.io/py/fng-api.svg)](https://badge.fury.io/py/fng-api)
 [![Downloads](https://pepy.tech/badge/fng-api)](https://pepy.tech/project/fng-api)
-[![PyPI license](https://img.shields.io/pypi/l/ansicolortags.svg)](https://pypi.python.org/pypi/ansicolortags/)
-[![Maintenance](https://img.shields.io/badge/Maintained%3F-yes-green.svg)](https://GitHub.com/TabulateJarl8/fng_api/graphs/commit-activity)
+[![PyPI license](https://img.shields.io/pypi/l/fng-api.svg)](https://pypi.python.org/pypi/fng-api/)
+[![Maintenance](https://img.shields.io/badge/Maintained%3F-no-red.svg)](https://GitHub.com/TabulateJarl8/fng_api/graphs/commit-activity)
 [![GitHub issues](https://img.shields.io/github/issues/TabulateJarl8/fng_api.svg)](https://GitHub.com/TabulateJarl8/fng_api/issues/)
 
 
